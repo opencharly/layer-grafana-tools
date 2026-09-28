@@ -1,7 +1,5 @@
-version: 2026.232.0520
 grafana-tools:
     candy:
-        version: 2026.144.1443
         description: |
             Grafana observability CLI suite (mcp-grafana, logcli, promtool, mimirtool, tempo-cli, tanka, grafanactl) on the PATH
             Installs the Grafana observability toolset as standalone binaries under
